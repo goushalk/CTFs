@@ -1,0 +1,95 @@
+Idaten Jump
+400 points
+
+A mysterious file has been found, but it looks like gibberish at first glance,Structured Secrets unlocks the mystery
+
+Hint: Fix me, then maybe we need a proper width (somewhere in the image)
+
+
+
+
+Pandora’s Box
+350 points
+
+The truth is never given, it is earned in blood and sacrifice.
+
+Kratos' mind is a battlefield, haunted by visions of the past. His suffering is eternal, yet within the torment, fragments of truth remain. The path to Pandora’s Box is hidden—shrouded beneath layers of deception, waiting for one worthy enough to uncover it.
+
+The Key For All The Secrets Lies In The Same Vault where a serpent snorezzz fire
+
+HINT : You need snow and a string soaked in blood to unlock secrets, also use hidden waves
+
+
+
+
+Mission Impossible
+347 points
+
+Bravo's fellow comrade military base has been compromised via APT hackers. Some from his base communicated Bravo to get a secret information for his top official. They ended up in exchanging information and Bravo's realised there is something going on their network. He ended up giving the message to the person, what they were expecting. Can you find what it is?
+
+
+
+Finding pretty GF name
+350 points
+
+bytebutcherx’s parents are suspicious about him, but they have no technical knowledge. They found a picture of him with his girlfriend and need your skills to uncover her name.
+
+Flag Format : TCTFxSTJ{GirlFriend_Name}
+
+
+
+Serpent's Secret
+250 points
+
+Your friend boasts about his unbeatable high score in Snake, challenging anyone to surpass it. Another player steps up, eager to take the top spot. But there's more to this game than just a high score—a secret flag is hidden within. Can you slither past the record and uncover the mystery?
+
+Zip Pass: 123
+
+
+
+Cryptosystem???
+499 points
+
+Breaking a cryptosystem often means solving a problem thought to be hard—until someone proves otherwise-unknown" With a massive 4095-bit modulus, my encryption should be unbreakable... or is it?
+
+HINT : If you able to decrypt the system,flag is in another format. key : cryptosystem name?
+
+
+
+Beyond WWII
+250 points
+
+The enemy is using an advanced unknown machine. This is not a standard variant4 used in German U-boats. Can you decrypt the message and retrieve the flag?
+
+
+
+Mathiya Sirai
+146 points
+
+Can you get the secret to escape the Mathiiya Sirai (Jail)?
+
+nc 209.38.121.6 5010
+
+
+
+Stack Master
+78 points
+
+Sometimes, a program just trusts whatever you say :), repeating your words without question. But what if words could do more than just appear on the screen?
+
+Can you retrive the flag?
+
+
+
+
+
+Win
+497 points
+
+Deep within the depths of binary land, a careless developer has left behind a function that grants instant victory. However, there's a catch – it's never called! There's no easy way in, and you'll need to craft the perfect input. can you call it?	
+
+
+
+
+
+
