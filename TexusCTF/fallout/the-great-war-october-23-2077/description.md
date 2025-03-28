@@ -1,0 +1,1 @@
+On October 23, 2077, the world ended in fire as nuclear warheads struck major cities. Vault-Tec's emergency protocols sealed the underground Vaults while the surface was engulfed in radiation. Among the ruins, an old military system still holds classified records of the war. A corrupted file, **warheads.java**, contains the first flag—hidden in the remnants of a lost world.

@@ -1,0 +1,1 @@
+You have been given a mysterious file that seems to be a ZIP archive. However, extracting it once is not enough. Every time you extract, you find another ZIP file nested inside. How deep does this rabbit hole go? Can you reach the final layer and uncover the flag?

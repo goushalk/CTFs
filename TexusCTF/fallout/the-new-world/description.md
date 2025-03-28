@@ -1,0 +1,1 @@
+Deep underground lies Vault Zero, the first and most advanced Vault, believed to hold the key to rebuilding civilization. Rumors say it was never sealed but instead became something else—something alive. Its main system, **vault_zero.java**, is the final piece of the puzzle. The last flag waits for whoever is brave enough to claim it.

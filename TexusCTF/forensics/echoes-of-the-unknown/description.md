@@ -1,0 +1,1 @@
+You've received a mysterious audio file, but listening to it doesn't reveal anything unusual. However, sound waves can hold hidden messages beyond what the ear can hear. Find a way to analyze the file and uncover the flag.

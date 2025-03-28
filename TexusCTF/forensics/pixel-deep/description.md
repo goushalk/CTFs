@@ -1,0 +1,1 @@
+You've been given an image file, but something feels off. There's nothing unusual when you look at it—but maybe the real secret is hidden beneath the surface.

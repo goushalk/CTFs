@@ -1,0 +1,2 @@
+Sometimes it pains me to create these. Always remember texus is the key to my success.
+..... --- .----. --. ..... -.--.-  -.-.-. ..... ... .-.-. --..  ... ---.. -...  .----. .-.. -.--  -- .----. --... ....- -.- .-..-. -... ...--  .-.-.   -.--.- ..--.- .--.
